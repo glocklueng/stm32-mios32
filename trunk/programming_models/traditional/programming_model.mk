@@ -33,6 +33,9 @@ endif
 ifeq ($(FAMILY),STM32F4xx)
 THUMB_SOURCE += $(MIOS32_PATH)/programming_models/traditional/startup_stm32f4xx.c
 endif
+ifeq ($(FAMILY),STM32F30x)
+THUMB_SOURCE += $(MIOS_PATH)/programming_models/traditional/startup_stm32f30x.c
+endif
 ifeq ($(FAMILY),LPC17xx)
 THUMB_SOURCE += $(MIOS32_PATH)/programming_models/traditional/startup_LPC17xx.c
 endif

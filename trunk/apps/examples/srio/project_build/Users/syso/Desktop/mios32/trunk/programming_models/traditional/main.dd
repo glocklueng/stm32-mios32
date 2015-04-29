@@ -1,0 +1,45 @@
+main.o: \
+ /Users/syso/Desktop/mios32/trunk/programming_models/traditional/main.c \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_datatypes.h \
+ mios32_config.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_irq.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_sys.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_spi.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_srio.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_din.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_dout.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_enc.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_ain.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_mf.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_lcd.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_midi.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_osc.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_com.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_usb.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_usb_midi.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_usb_com.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_uart.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_uart_midi.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_spi_midi.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_iic.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_iic_bs.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_iic_midi.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_i2s.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_board.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_timer.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_stopwatch.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_timestamp.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_delay.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_sdcard.h \
+ /Users/syso/Desktop/mios32/trunk/include/mios32/mios32_enc28j60.h app.h \
+ /Users/syso/Desktop/mios32/trunk/modules/app_lcd/universal/app_lcd.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/FreeRTOS.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/projdefs.h \
+ /Users/syso/Desktop/mios32/trunk/programming_models/traditional/FreeRTOSConfig.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/portable.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/../../Source/portable/GCC/ARM_CM3/portmacro.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/mpu_wrappers.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/task.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/list.h \
+ /Users/syso/Desktop/mios32/trunk/FreeRTOS/Source/include/queue.h
